@@ -1,5 +1,5 @@
 # Extending Structural Causal Models for Autonomous Vehicles to Simplify Temporal System Construction & Enable Dynamic Interactions Between Agents
-The code presented here provides an autonomous vehicle architecture based upon extended structural causal models.
+The code here provides an autonomous vehicle architecture based upon extended structural causal models.
 
 ## Code
 The directory containing the aforementioned code.
